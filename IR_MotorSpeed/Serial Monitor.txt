@@ -1,0 +1,31 @@
+
+
+Infrared Fan Motor Speed Control
+Full Power Start
+Set speed: 228 PWM: 254 Speed: 299
+Set speed: 228 PWM: 245 Speed: 420
+Set speed: 228 PWM: 231 Speed: 423
+Set speed: 228 PWM: 217 Speed: 405
+Set speed: 228 PWM: 203 Speed: 383
+Set speed: 228 PWM: 190 Speed: 360
+Set speed: 228 PWM: 178 Speed: 337
+Set speed: 228 PWM: 167 Speed: 315
+Set speed: 228 PWM: 157 Speed: 295
+Set speed: 228 PWM: 148 Speed: 279
+Set speed: 228 PWM: 140 Speed: 261
+Set speed: 228 PWM: 134 Speed: 245
+Set speed: 228 PWM: 129 Speed: 232
+Set speed: 228 PWM: 127 Speed: 223
+Set speed: 228 PWM: 129 Speed: 221
+Set speed: 228 PWM: 131 Speed: 226
+Set speed: 228 PWM: 132 Speed: 229
+Set speed: 228 PWM: 131 Speed: 229
+Set speed: 228 PWM: 130 Speed: 227
+Set speed: 228 PWM: 131 Speed: 226
+Set speed: 228 PWM: 132 Speed: 228
+Set speed: 228 PWM: 132 Speed: 229
+Set speed: 228 PWM: 131 Speed: 228
+Set speed: 228 PWM: 131 Speed: 227
+Set speed: 228 PWM: 132 Speed: 229
+Set speed: 228 PWM: 131 Speed: 228
+Set speed: 228 PWM: 131 Speed: 228
